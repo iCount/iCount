@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @iCount
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning IT, hacking
-- 💞️ I’m looking to collaborate on no.
-- 📫 How to reach me no way.
+<div id="header" align="center">
+  <img src="https://i.gifer.com/5Tz.gif" width="100"/>
+</div>
 
 <!---
 iCount/iCount is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,13 +1,7 @@
-<h1 align="center">Hi, I'm <a href="https://daniilshat.ru/" target="_blank" style="color: #FF6347;">Ivan</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF6347&center=true&vCenter=true&lines=Hi%2C+I'm+Ivan+%F0%9F%91%8B;Always+Learning+New+Things;#1" alt="Animated Text" />
+</h1>
 
-<p align="center" style="color: #4169E1; font-size: 20px;">
-  Always Learning New Things
-</p>
-
-<p align="center" style="font-size: 24px; color: #FF4500;">
-  #1
-</p>
 
 ---
 

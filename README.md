@@ -7,4 +7,4 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,SS,SSS,A,AA,AAA&theme=onestar)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SECRET,S,SS,SSS,A,AA,AAA&theme=onestar)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)

@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=FF6347&center=true&vCenter=true&lines=Hi%2C+I'm+Ivan+%F0%9F%91%8B;Always+Learning+New+Things;#1" alt="Animated Text" />
 </h1>
 
-
 ---
 
 ### 🛠️ Languages & Tools
@@ -29,8 +28,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iCount&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide_title=true&hide_rank=true" alt="iCount GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iCount&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="iCount Top Languages" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iCount&show_icons=true&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true" alt="iCount GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=iCount&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="iCount GitHub Streak" width="48%" />
 </p>
 
 ---

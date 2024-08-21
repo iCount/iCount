@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://daniilshat.ru/" target="_blank">Ivan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">🇷🇺 Computer Science Student</h3>
+<h3 align="center">#1</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Passionate+about+Coding;Always+Learning+New+Things" alt="Typing SVG" />

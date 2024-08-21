@@ -5,6 +5,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+
+### Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=iCount&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="iCount" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iCount&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="iCount" /></p>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SECRET,S,SS,SSS,A,AA,AAA&theme=onestar)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)

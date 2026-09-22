@@ -25,13 +25,6 @@
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=SECRET,S,SS,SSS,A,AA,AAA&theme=dracula" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🧩 Contributions
 <p align="center">
   <picture>
